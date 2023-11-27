@@ -1,0 +1,90 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+.container {
+    width:600px;
+    height:1067px;
+    border: 3px solid black;
+    margin:0 auto;
+    border-radius: 30px;
+}
+header {
+    padding: 0;
+    margin: 0;
+}
+
+hr {
+    box-shadow: 1px 2px lightgrey;
+}
+.oldgram {
+    height: 100px;
+    margin-top: 20px;
+    margin-left: 20px;
+    padding:0;
+    
+}
+.user-avatar {
+    height:80px;
+    margin-left:240px;
+    border-radius: 50px;
+}
+.vincent {
+    width:600px;
+    margin-top: 20px;
+}
+ .user-avatar-div {
+    margin-left: 15px;
+    display: inline-block;
+    width:90px;
+    height:90px;  
+    
+}
+
+.img2 {
+    width:80px;
+    border-radius:50px;
+    margin-top:30px;
+
+}
+
+section {
+   padding: 0;
+   margin: 0;
+   display: inline-block;
+}
+.user-name {
+    margin-top: 15px;
+    display: inline-block;
+    vertical-align:top;
+}
+h2 {
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+h3 {
+    font-weight:500;
+    padding-top: 0px;
+    margin-top: 8px;
+}
+
+.icons {
+    width: 38px;
+    padding-left: 19px;
+    margin-top: 20px;
+}
+.likes {
+font-weight: bold;
+margin-left: 25px;
+margin-top: 15px;
+}
+span {
+    font-weight: bold;
+}
+.comment {
+    margin-left: 12px;
+}
